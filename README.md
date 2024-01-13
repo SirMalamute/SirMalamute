@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**SirMalamute/SirMalamute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neel, a student/developer 💻 currently working on NLP research in political science and sports analytics. 
 
-Here are some ideas to get you started:
+I have a passion for Python, NLP, data science, political science, and economics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my notable side projects:
+[VideoAnalyser For Hate Bias](https://github.com/SirMalamute/VideoAnalysis)
+[Soccer Player Analysis via Clustering](https://github.com/SirMalamute/SoccerClustering)
+[Company Outlook Analysis via Twitter](https://github.com/SirMalamute/TwitterSentiment)
+[Network Analysis of High-Performing Basketball Duos](https://github.com/SirMalamute/PlayerLineupAnalysis)
+[Receipt Database App](https://github.com/SirMalamute/Receipts)
+
+[LinkedIn 💼](https://linkedin.com/in/neel)
+[Email 📬](mailto:neeliyer14@gmail.com)
