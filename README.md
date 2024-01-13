@@ -4,7 +4,7 @@ I'm Neel, a student/developer 💻 currently working on NLP research in politica
 
 I have a passion for Python, NLP, data science, political science, and economics.
 
-Here are some of my notable side projects:
+Here are some of my notable side projects: \
 [VideoAnalyser For Hate Bias](https://github.com/SirMalamute/VideoAnalysis) \
 [Soccer Player Analysis via Clustering](https://github.com/SirMalamute/SoccerClustering) \
 [Company Outlook Analysis via Twitter](https://github.com/SirMalamute/TwitterSentiment) \
