@@ -9,7 +9,7 @@ Here are some of my notable side projects:
 [Soccer Player Analysis via Clustering](https://github.com/SirMalamute/SoccerClustering) \
 [Company Outlook Analysis via Twitter](https://github.com/SirMalamute/TwitterSentiment) \
 [Network Analysis of High-Performing Basketball Duos](https://github.com/SirMalamute/PlayerLineupAnalysis) \
-[Receipt Database App](https://github.com/SirMalamute/Receipts) \
+[Receipt Database App](https://github.com/SirMalamute/Receipts)
 
 [LinkedIn 💼](https://linkedin.com/in/neeliyer14) \
 [Email 📬](mailto:neeliyer14@gmail.com)
