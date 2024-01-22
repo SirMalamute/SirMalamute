@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Neel, a student/developer 💻 currently working on NLP research in political science and sports analytics. 
+I'm Neel, a student/developer 💻 with research interests focused on NLP and its intersection with media and polarity. 
 
-I have a passion for Python, NLP, data science, political science, and economics.
+I have a passion for data science, political science, and economics.
 
 Here are some of my notable side projects: \
 [VideoAnalyser For Hate Bias](https://github.com/SirMalamute/VideoAnalysis) \
