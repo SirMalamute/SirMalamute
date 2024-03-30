@@ -5,7 +5,7 @@ I'm Neel, a student/developer 💻 with research interests focused on NLP and it
 I have a passion for data science, political science, and economics.
 
 My research: \
-Developing team chemistry insights in basketball via analytics; providing recommendations for the constructing of high-value pairs: [Network Analysis of High-Performing Basketball Duos](https://github.com/SirMalamute/PlayerLineupAnalysis) \
+Developing team chemistry insights in basketball via analytics; providing recommendations for the constructing of high-value pairs: [Network Analysis of High-Performing Basketball Duos](https://github.com/SirMalamute/PlayerLineupAnalysis) 
 
 Here are some of my notable side projects: \
 [VideoAnalyser For Hate Bias](https://github.com/SirMalamute/VideoAnalysis) \
